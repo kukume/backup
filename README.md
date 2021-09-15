@@ -1,1 +1,1 @@
-自动备份文件夹和数据库到阿里云、又拍云、腾讯云、七牛云、backblaze
+auto backup file and db
